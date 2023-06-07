@@ -7,3 +7,7 @@
 
 # Lesson 1:
 ~> Hellow World program.
+
+# Lesson 2:
+
+~> Basic structure of C
