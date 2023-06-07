@@ -11,3 +11,6 @@
 # Lesson 2:
 
 ~> Basic structure of C
+
+# Lesson 3:
+~> Basic syntax
