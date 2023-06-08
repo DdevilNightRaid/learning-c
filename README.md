@@ -14,3 +14,6 @@
 
 # Lesson 3:
 ~> Basic syntax
+
+# Lesson 4:
+~> Data Types in C
