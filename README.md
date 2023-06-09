@@ -17,3 +17,5 @@
 
 # Lesson 4:
 ~> Data Types in C
+
+# Exercise 1:
