@@ -22,3 +22,6 @@
 
 # Lesson 5:
 ~> Format Specifiers and Escape Sequence
+
+# Lesson 6:
+~> If Else Condition
