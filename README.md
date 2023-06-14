@@ -25,3 +25,9 @@
 
 # Lesson 6:
 ~> If Else Condition
+
+# Lesson 7:
+~> Loops in C
+
+# Lesson 8:
+~> Break and Continue Statement
