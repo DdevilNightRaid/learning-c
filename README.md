@@ -31,3 +31,6 @@
 
 # Lesson 8:
 ~> Break and Continue Statement
+
+# Lesson 9:
+~> Goto Statement
