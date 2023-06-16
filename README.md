@@ -18,8 +18,6 @@
 # Lesson 4:
 ~> Data Types in C
 
-# Exercise 1:
-
 # Lesson 5:
 ~> Format Specifiers and Escape Sequence
 
