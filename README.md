@@ -34,3 +34,9 @@
 
 # Lesson 9:
 ~> Goto Statement
+
+# Lesson 10: 
+~> Type Casting
+
+# Lesson 11:
+~> Function in C
