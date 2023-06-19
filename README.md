@@ -33,3 +33,12 @@
 # Lesson 9:
 ~> Goto Statement
 
+# Lesson 10: 
+~> Type Casting
+
+# Lesson 11:
+~> Function in C
+
+# Lesson 12:
+~> Recursive Functions in C
+
