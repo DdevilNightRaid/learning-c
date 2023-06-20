@@ -43,3 +43,6 @@
 
 # Lesson 12:
 ~> Recursive Functions in C
+
+# Exercise 2:
+~> Units and Conversion
